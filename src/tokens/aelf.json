@@ -1,0 +1,49 @@
+[
+  {
+    "name": "ELF Token",
+    "symbol": "ELF",
+    "address": "ELF",
+    "chainId": "AELF",
+    "decimals": 8,
+    "logoURI": ""
+  },
+  {
+    "name": "USDT Token",
+    "symbol": "USDT",
+    "address": "USDT",
+    "chainId": "AELF",
+    "decimals": 6,
+    "logoURI": ""
+  },
+  {
+    "name": "ETH Token",
+    "symbol": "ETH",
+    "address": "ETH",
+    "chainId": "AELF",
+    "decimals": 8,
+    "logoURI": ""
+  },
+  {
+    "name": "ABC Token",
+    "symbol": "ABC",
+    "address": "ABC",
+    "chainId": "AELF",
+    "decimals": 8,
+    "logoURI": ""
+  },
+  {
+    "name": "TEST Token",
+    "symbol": "TEST",
+    "address": "TEST",
+    "chainId": "AELF",
+    "decimals": 8,
+    "logoURI": ""
+  },{
+    "name": "ISTAR Token",
+    "symbol": "ISTAR",
+    "address": "ISTAR",
+    "chainId": "AELF",
+    "decimals": 8,
+    "logoURI": ""
+  }
+]
