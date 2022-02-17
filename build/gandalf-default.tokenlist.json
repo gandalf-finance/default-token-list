@@ -1,10 +1,10 @@
 {
   "name": "Gandalf Default List",
-  "timestamp": "2022-02-17T07:18:29.197Z",
+  "timestamp": "2022-02-17T07:22:07.948Z",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
   "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
@@ -550,22 +550,6 @@
       "logoURI": ""
     },
     {
-      "name": "ELF Token",
-      "symbol": "ELF",
-      "address": "ELF",
-      "chainId": "AELF",
-      "decimals": 8,
-      "logoURI": ""
-    },
-    {
-      "name": "ETH Token",
-      "symbol": "ETH",
-      "address": "ETH",
-      "chainId": "AELF",
-      "decimals": 8,
-      "logoURI": ""
-    },
-    {
       "name": "ISTAR Token",
       "symbol": "ISTAR",
       "address": "ISTAR",
@@ -579,14 +563,6 @@
       "address": "TEST",
       "chainId": "AELF",
       "decimals": 8,
-      "logoURI": ""
-    },
-    {
-      "name": "USDT Token",
-      "symbol": "USDT",
-      "address": "USDT",
-      "chainId": "AELF",
-      "decimals": 6,
       "logoURI": ""
     }
   ]

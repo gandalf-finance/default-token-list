@@ -1,6 +1,6 @@
 {
   "name": "@gandalf-finance/default-token-list",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "◦ The Gandalf default token list",
   "main": "build/gandalf-default.tokenlist.json",
   "scripts": {
