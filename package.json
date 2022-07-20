@@ -34,5 +34,8 @@
     "chai": "^4.2.0",
     "mocha": "^8.0.1",
     "rimraf": "^3.0.2"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
   }
 }
